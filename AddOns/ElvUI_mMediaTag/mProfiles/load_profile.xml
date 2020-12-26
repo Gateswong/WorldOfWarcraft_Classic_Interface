@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file="mHeal.lua"/>
+	<Script file="mNameplate.lua"/>
+	<Script file="mTankDD.lua"/>
+	<Script file="mSandysUI.lua"/>
+	<Script file="mProfileWindow.lua"/>
+</Ui>

@@ -1,0 +1,21 @@
+#@retail@
+## Interface: 90002
+#@end-retail@
+#@non-retail@
+# ## Interface: 11306
+#@end-non-retail@
+## Title: ClickedMedia
+## Author: Snakybo
+## Version: @project-version@
+## Notes: Icon data for Clicked.
+## LoadOnDemand: 1
+
+#@retail@
+MediaRetail.lua
+#@end-retail@
+#@non-retail@
+# MediaClassic.lua
+#@end-non-retail@
+#@debug@
+MediaClassic.lua
+#@end-debug

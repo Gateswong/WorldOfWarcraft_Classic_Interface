@@ -1,0 +1,10 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="SetupAddons.lua"/>
+	<Script file="AddOnSkins.lua"/>
+	<Script file="LocPlus.lua"/>
+	<Script file="DBM.lua"/>
+	<Script file="Skada.lua"/>
+	<Script file="ProjectAzilroka.lua"/>
+	<Script file="KalielsTracker.lua"/>
+	<Script file="ElvUI_FCT.lua"/>
+</Ui>

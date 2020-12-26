@@ -1,0 +1,34 @@
+# Changelog - ElvUI_mMediaTag
+[Eng] - All changes to this project will be documented in this file. The latest changes are at the top.
+[Ger] - Alle Änderungen an diesem Projekt werden in dieser Datei dokumentiert. Die neuesten Änderungen stehen ganz oben.
+
+## [ver. 2.10] - 09.12.2020
+### Added
+- DoubleLine for Menu
+- Achievement Names
+- Achievement Icon
+### Update
+- Localization
+- Fix Mytic Plus Archivment
+
+## [ver. 2.00] - 29.11.2020
+### Added
+- Profile Import Strings
+- Dungeon Achievement
+- Weakauro Profile (Comming Soon)
+### Update
+- New Changelog Window
+- Settings Menu Update
+- Mythic + Achievement
+
+## [ver. 1.91] - 19.11.2020
+### Added
+- Settings Menu Addons changes
+- New Settings add GIT URL
+- Toc Update
+
+## [ver. 1.90] - 10.11.2020
+### Added
+- Versions Check upgrade Retail/ Classic check
+- Settings update
+- Custom colors for mMediTags Tags

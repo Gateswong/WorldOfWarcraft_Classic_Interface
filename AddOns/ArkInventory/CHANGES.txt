@@ -1,0 +1,29 @@
+------------------------------------------------------------------------
+r1079 | arkayenro | 2020-11-30 07:26:26 +0000 (Mon, 30 Nov 2020) | 4 lines
+Changed paths:
+   M /trunk/ArkInventory.toc
+   M /trunk/ArkInventoryJunk.lua
+   M /trunk/Locale/enUS.lua
+   M /trunk/Modules/ArkInventoryConfig/ArkInventoryConfig.lua
+   M /trunk/VersionHistory.txt
+
+*3.09.46 (30-NOV-2020)*
+ * changed - CallBackHandler library updated to 1.0.7
+ * disabled - the delete option for junk selling has been disabled due to blizzard protecting the DeleteCursorItem function
+
+------------------------------------------------------------------------
+r1078 | arkayenro | 2020-11-27 04:05:21 +0000 (Fri, 27 Nov 2020) | 4 lines
+Changed paths:
+   M /trunk/ArkInventory.toc
+   M /trunk/ArkInventoryExternals.xml
+   M /trunk/Libs/CallBackHandler/CallbackHandler-1.0.lua
+   A /trunk/Libs/CallBackHandler/CallbackHandler-1.0.xml
+   D /trunk/Libs/CallBackHandler/lib.xml
+   M /trunk/VersionHistory.txt
+
+*3.09.45 (xx-xxx-2020)*
+* alpha 1
+ * changed - CallBackHandler library updated to 1.0.7
+
+------------------------------------------------------------------------
+

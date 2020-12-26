@@ -1,0 +1,5 @@
+0.4.2 Release Notes
+Contributions made by Crieve:
+* Writ of Safe Passage is now repeatable.
+* Tahiti of Atiesh is now known as "The Huggler".
+
